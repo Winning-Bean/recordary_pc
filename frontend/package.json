@@ -19,7 +19,7 @@
     "axios": "^0.19.2",
     "cross-env": "^7.0.2",
     "date-fns": "^2.11.1",
-    "immer": "^6.0.3",
+    "immer": "^8.0.1",
     "material-ui-popup-state": "^1.5.4",
     "moment": "^2.24.0",
     "notistack": "^0.9.17",
